@@ -1,7 +1,9 @@
 ### Sponge QA System
 
-This project is a system developed with **Python and Nicegui** for recording and monitoring sponge measurements in a production environment.
-The system allows users to search for a sponge, record real measurements, and visualize graphical comparisons between nominal and measured values.
+<p aling="justify">
+  This project is a system developed with **Python and Nicegui** for recording and monitoring sponge measurements in a production environment.
+  The system allows users to search for a sponge, record real measurements, and visualize graphical comparisons between nominal and measured values.
+</p>
 
 ### FEATURES
 - Search Sponge by ID.
